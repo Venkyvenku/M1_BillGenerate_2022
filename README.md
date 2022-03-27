@@ -1,3 +1,4 @@
 # M1_March_2022
 . Bardgs
-https://api.codiga.io/project/32149/score/svg
+
+![Code Quality Score](https://api.codiga.io/project/32149/score/svg)
