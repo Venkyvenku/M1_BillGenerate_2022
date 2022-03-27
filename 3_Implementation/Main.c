@@ -1,16 +1,4 @@
-/**
- * @file BillGenerate.c
- * @author your name (Venky)
- * @brief This is very useful for generate bill
- * @version 0.1
- * @date 2022-03-27
- * 
- * @copyright Copyright (c) 2022
- * 
- */
-#include<string.h>
-#include<stdlib.h>
-  
+#include"BillGenerate.h"
 struct items{
     char item[20];
     float price;
