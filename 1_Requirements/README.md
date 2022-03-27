@@ -25,7 +25,7 @@
 
 # SWOT ANALYSIS:
     * Strength:
-        1.Save lot of time and effec.
+        1.Save lot of time and effort.
         2.Reduces material costing that comes with manual billing and filing.
         3.Reducing long queues.
         4.Low cost and easy to Handle.
